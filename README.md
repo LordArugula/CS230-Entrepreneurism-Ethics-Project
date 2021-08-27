@@ -69,7 +69,7 @@ B. Priorities- Give which experiment/hypothesis you will test first - as it is a
 
 A. Presentation YouTube - create a YouTube (accessible) presentation (<15 minutes) that goes over in detail your GitHub wiki-based documentation. The wiki must be clearly readable in your video and your voice must be clear and audible. You should discuss ALL items 1-4 in your document.
 
-B. Presentation Lightening Round Presentations In Person (see deliverables below for date and time): your group will have approximately 5 minutes to do a speed presentation where you will discuss:
+B. Presentation Lightning Round Presentations In Person (see deliverables below for date and time): your group will have approximately 5 minutes to do a speed presentation where you will discuss:
 * ITEM 1-Company Name, Vision, Introduce your Team
 * Discussion ONE point of your Ethics Policy (ITEM 3)
 * Discuss ONE point of your Cultural Policies (ITEM 2)
