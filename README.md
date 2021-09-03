@@ -54,10 +54,10 @@ Example of Google's Cultural Summary:
 
 ## Item 3 : Ethics Policy (minimum 500 words)
 
-### Core Items
+### A. Core Items
 Enumerate the core items in your ethics policy and give details of each policy item and its meaning.
 
-### Board
+### B. Board
 List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.
 
 TIPS on Ethics Policies
@@ -73,9 +73,11 @@ Consider the following ideas from AI NOW report 2018:
 
 ## Item 4 : Experimentation & Priorities
 
-A. Experimentation (to test OKRs of Strategy) - restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas. EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional...think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
+### A. Experimentation (to test OKRs of Strategy)
+Restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas. EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional... think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
 
-B. Priorities- Give which experiment/hypothesis you will test first - as it is a high priority
+### B. Priorities
+Give which experiment/hypothesis you will test first - as it is a high priority
 
 ## Item 5 : YouTube Presentation (see below requirement) - give URL
 
