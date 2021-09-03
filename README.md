@@ -4,6 +4,7 @@ This project examines the practice of Ethics in modern startup and entrepreneuri
 http://borg.csueastbay.edu/~grewe/CS230/Projects/Proj_Company.html
 
 ## Project Management
+We are using a Trello board to manage this project.
 https://trello.com/b/kw8fO7nY/entrepreneurism-ethics-project
 
 ## Item 1 : Business Plan (minimum 500 words)
