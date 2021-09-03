@@ -15,10 +15,10 @@ B. Long-Term Vision Statement
 C. External opportunities that exist
 Here are some ideas you may consider:
  * Opportunities like co-marketing (i.e. how your new headphones work great with Nike shoes for a great workout)
- * funding opportunities you found (through government, VCs, Angel investors, etc), 
+ * funding opportunities you found (through government, VCs, Angel investors, etc.), 
  * co-development possibilities with other companies (maybe you can make a Nike version of your headphones)
  * special conferences, trade meetings where you could present your product/service
- * give-aways, hackathons, promotional deals, etc.
+ * giveaways, hackathons, promotional deals, etc.
 Give REAL ideas not fake ones. Mention real companies and provide links to their homepage. For venture capital (VC) give websites and discuss why THAT VC would be interested in YOUR startup (they specialize in human computing and your headphones would fit the profile of their past investments), Special conferences & how they fit with YOUR product/service and give URL.
 
 D. Teams - Give a picture and a [biography for each person](http://borg.csueastbay.edu/~grewe/CS230/Mat/EthicsInfo/BiosStrengths.html) in the leadership of your company (which are your group mates) and discuss their strengths as it i relates to the formation of this startup tech company. [Read this for more detailed discussion and example](http://borg.csueastbay.edu/~grewe/CS230/Mat/EthicsInfo/BiosStrengths.html).
@@ -61,7 +61,7 @@ Consider the following ideas from AI NOW report 2018:
 
 ## Item 4 : Experimentation & Priorities
 
-A. Experimentation (to test OKRs of Strategy) - restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas.EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional...think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
+A. Experimentation (to test OKRs of Strategy) - restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas. EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional...think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
 
 B. Priorities- Give which experiment/hypothesis you will test first - as it is a high priority
 
@@ -76,3 +76,20 @@ B. Presentation Lightning Round Presentations In Person (see deliverables below 
 * Discuss one of your Ethics Board Members(ITEM 3).
 
 This in-person presentation will be recorded for attendance. It is critical you come so you can hear about other presentations. It will help you along with the YouTube presentation to evaluate other groups work (remember this is a peer evaluated project). NOTE: it is up to you to choose which one item of the ethics policy, one item of cultural policy and which one ethics board member you will discuss.
+
+## Deliverables
+EACH member of the group MUST turn in separately --even though it is the same content.
+
+### Initial Schedule Report : Due Sept. 24, 11pm
+Turn ii screenshot of Kanban/Trello board showing detailed Schedule (see above week 5 item) to BB -> Discussion Board -> ENTREPRENEUR & ETHICS SCHEDULE
+
+### Weekly Progress Reports: - due 11pm[Oct 15, 22, 29, Nov. 5, 12]
+Make a posting to BB -> Discussion Board -> Group Progress Report Week X
+* Summary: A few sentences describing the work your group accomplished that week
+* Trello Screenshot: a screenshot of the updated Trello board. You need to update this and move cards around the 3 columns Milestones, In Progress, Completed as you are working on them.
+
+### GitHub based Wiki Report & YouTube Presentation: Due Nov. 28, 11pm
+Create GitHub Repository that is public so ALL can see that contains wiki of documentation described above that includes link to YouTube presentation and turn in URL to this GitHub wiki. and post it to BB -> Discussion Board -> Entrepreneur & Ethics Submission
+
+### In Person Lightning Round Presentation
+In our in-person meeting (now via Zoom) scheduled below your group will have approximately 5 minutes to do a speed presentation where you will discuss ITEM 1-Company Name, Long Term Vision, Introduce your Team, Discussion ONE point of your Ethics and Cultural Policies and Discuss one of your Ethics Board Members. This in-person meeting will be recorded for attendance. It is critical you come so you can hear about other presentations. It will help you understand how you will be evaluating others.
