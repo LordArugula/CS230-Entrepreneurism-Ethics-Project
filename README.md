@@ -43,12 +43,12 @@ Summarize in 6 words or less the company's goals/objectives (here are some I hav
 ### A. Core Values
 Give core values of company answering questions: How do you want to be thought of? What are the details of the core values of the company?
 
-Leadership: To change the world you need a good leader to guide you.
-Freedom: It’s a very important aspect for people to perform.
-Innovation: You need to back up the unorthodox idea to be the best in the market.
-Quality: If you’re doing something we should do best. 
-Respect: If you will respect your co-workers, you gonna get more successful.
-Customer Satisfaction: You need to do anything to make your client happy.
+1.Leadership: To change the world you need a good leader to guide you.
+2.Freedom: It’s a very important aspect for people to perform.
+3.Innovation: You need to back up the unorthodox idea to be the best in the market.
+4.Quality: If you’re doing something we should do best. 
+5.Respect: If you will respect your co-workers, you gonna get more successful.
+6.Customer Satisfaction: You need to do anything to make your client happy.
 
 
 ### B. Motivation
