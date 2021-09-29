@@ -17,10 +17,10 @@ Make it a name you would like - treat this like a real startup). Remember this m
 2. Where did your idea come from (a class, a job, a need)?
 3. What is the purpose, values and mission? List 2 or 3 key questions that will guide the startup's choices. These should be essential questions that serve as touchstones to direct your companies efforts. For instance, how can the startup have impact? What engages our passions?
 
------------------------
-ANH TRAN's Version:
-// I will write my work here.
------------------------
+       -----------------------
+       ANH TRAN's Version:
+       // I will write my work here.
+       -----------------------
 
 ### C. External opportunities that exist
 Here are some ideas you may consider:
