@@ -44,15 +44,22 @@ Summarize in 6 words or less the company's goals/objectives (here are some I hav
 Give core values of company answering questions: How do you want to be thought of? What are the details of the core values of the company?
 
 1.Leadership: To change the world you need a good leader to guide you.
+
 2.Freedom: It’s a very important aspect for people to perform.
+
 3.Innovation: You need to back up the unorthodox idea to be the best in the market.
+
 4.Quality: If you’re doing something we should do best. 
+
 5.Respect: If you will respect your co-workers, you gonna get more successful.
+
 6.Customer Satisfaction: You need to do anything to make your client happy.
 
 
 ### B. Motivation
 Give an understanding of the desired company culture by answering: What do you love? What do you fear?
+We love to respect everyone’s opinion and no decision is made without everyone is on the same page. The policy of our company is to be transparent and help each other So that work can be completed super fast. Everyone has small tasks to complete which doesn’t put much pressure on any individual. The biggest fear is that everyone’s work is connected to each other, If someone didn’t complete their work on time the project will go on the back track.
+
 
 ### C. Summary
 Summarize in 6 words or less the company's culture
