@@ -71,6 +71,14 @@ Example of Google's Cultural Summary:
  4. Hands-on approach
  5. Small-company-family rapport
 
+
+
+1.Leadership
+2.Transparency
+3.Respect
+4.Set Target
+5.NO pressure
+
 ## Item 3 : Ethics Policy (minimum 500 words)
 
 ### A. Core Items
