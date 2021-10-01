@@ -19,7 +19,27 @@ Make it a name you would like - treat this like a real startup). Remember this m
 
        -----------------------
        ANH TRAN's Version:
-       // I will write my work here.
+       // This is just a draft. The statements should be short like a single sentence, I think.
+       1. What are the goals?
+          - Successfully open the first milk tea shop that uses fully use technology and automation equipments for services.
+          - Do not let human employees do jobs that robots and AI can do. Therefore, we can minimize production cost and can pay higher salary for human employees, who takes roles that robots cannot do (like customer services, administration...)
+          - Open similar business that use the similar technology: restaurant, book store, grocery stores...
+       2. Where did your idea come from (a class, a job, a need)?
+          - Online research
+          - Class materials: Taxing robot (Bill Gate) 
+       4. What is the purpose, values and mission? List 2 or 3 key questions that will guide the startup's choices. 
+          - Why we/people need the existance of our business (purpose)?
+              + We need to automize works that machine can do, so human have more time to do other things (enjoy their life/ spend time for friend and family)
+              + We eliminate boring jobs that repeated exactly the same from day to day so people can focus on works that need creative (and improve their creatives).
+              + We eliminate the chance of getting injury for human who works with hot materials (cooking)  
+          - So, our mission are:
+              + Giving best services to customers (robots always do exactly since they are not affected by emotions and attitudes).
+              + Giving best working environment for workers (they don't have to do boring and dangerous jobs, and their salary is higher)
+              + Giving guilines for other business to do the same thing.
+          - Our values:
+              + Quality
+              + Humanity
+              + Innovation   
        -----------------------
 
 ### C. External opportunities that exist
