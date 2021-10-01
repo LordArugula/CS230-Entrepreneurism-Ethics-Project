@@ -7,7 +7,10 @@ http://borg.csueastbay.edu/~grewe/CS230/Projects/Proj_Company.html
 We are using a Trello board to manage this project.
 https://trello.com/b/kw8fO7nY/entrepreneurism-ethics-project
 
-## Item 1 : Business Plan (minimum 500 words)
+## Contributing
+To contribute, edit the [wiki](https://github.com/LordArugula/CS230-Entrepreneurism-Ethics-Project/wiki) instead of this readme.
+
+## Item 1 : [Business Plan](https://github.com/LordArugula/CS230-Entrepreneurism-Ethics-Project/wiki/Business-Plan) (minimum 500 words)
 
 ### A. Company Name of Fictitious Company
 Make it a name you would like - treat this like a real startup). Remember this must be a tech company.
@@ -16,31 +19,6 @@ Make it a name you would like - treat this like a real startup). Remember this m
 1. What are the goals?
 2. Where did your idea come from (a class, a job, a need)?
 3. What is the purpose, values and mission? List 2 or 3 key questions that will guide the startup's choices. These should be essential questions that serve as touchstones to direct your companies efforts. For instance, how can the startup have impact? What engages our passions?
-
-       -----------------------
-       ANH TRAN's Version:
-       // This is just a draft. The statements should be short like a single sentence, I think.
-       1. What are the goals?
-          - Successfully open the first milk tea shop that uses fully use technology and automation equipments for services.
-          - Do not let human employees do jobs that robots and AI can do. Therefore, we can minimize production cost and can pay higher salary for human employees, who takes roles that robots cannot do (like customer services, administration...)
-          - Open similar business that use the similar technology: restaurant, book store, grocery stores...
-       2. Where did your idea come from (a class, a job, a need)?
-          - Online research
-          - Class materials: Taxing robot (Bill Gate) 
-       4. What is the purpose, values and mission? List 2 or 3 key questions that will guide the startup's choices. 
-          - Why we/people need the existance of our business (purpose)?
-              + We need to automize works that machine can do, so human have more time to do other things (enjoy their life/ spend time for friend and family)
-              + We eliminate boring jobs that repeated exactly the same from day to day so people can focus on works that need creative (and improve their creatives).
-              + We eliminate the chance of getting injury for human who works with hot materials (cooking)  
-          - So, our mission are:
-              + Giving best services to customers (robots always do exactly since they are not affected by emotions and attitudes).
-              + Giving best working environment for workers (they don't have to do boring and dangerous jobs, and their salary is higher)
-              + Giving guilines for other business to do the same thing.
-          - Our values:
-              + Quality
-              + Humanity
-              + Innovation   
-       -----------------------
 
 ### C. External opportunities that exist
 Here are some ideas you may consider:
@@ -63,28 +41,13 @@ What is the strategy for the next 3 to 5 years. In addition, please share at lea
 ### F. Slogan
 Summarize in 6 words or less the company's goals/objectives (here are some I have used for different research projects/labs: bringing mobility to the low vision, human-centric vision solving real problems).
 
-## Item 2 : Cultural Policy (minimum 150 words)
+## Item 2 : [Cultural Policy](https://github.com/LordArugula/CS230-Entrepreneurism-Ethics-Project/wiki/Cultural-Policy) (minimum 150 words)
 
 ### A. Core Values
 Give core values of company answering questions: How do you want to be thought of? What are the details of the core values of the company?
 
-1.Leadership: To change the world you need a good leader to guide you.
-
-2.Freedom: It’s a very important aspect for people to perform.
-
-3.Innovation: You need to back up the unorthodox idea to be the best in the market.
-
-4.Quality: If you’re doing something we should do best. 
-
-5.Respect: If you will respect your co-workers, you gonna get more successful.
-
-6.Customer Satisfaction: You need to do anything to make your client happy.
-
-
 ### B. Motivation
 Give an understanding of the desired company culture by answering: What do you love? What do you fear?
-We love to respect everyone’s opinion and no decision is made without everyone is on the same page. The policy of our company is to be transparent and help each other So that work can be completed super fast. Everyone has small tasks to complete which doesn’t put much pressure on any individual. The biggest fear is that everyone’s work is connected to each other, If someone didn’t complete their work on time the project will go on the back track.
-
 
 ### C. Summary
 Summarize in 6 words or less the company's culture
@@ -96,15 +59,7 @@ Example of Google's Cultural Summary:
  4. Hands-on approach
  5. Small-company-family rapport
 
-
-
-1.Leadership
-2.Transparency
-3.Respect
-4.Set Target
-5.NO pressure
-
-## Item 3 : Ethics Policy (minimum 500 words)
+## Item 3 : [Ethics Policy](https://github.com/LordArugula/CS230-Entrepreneurism-Ethics-Project/wiki/Ethics-Policy) (minimum 500 words)
 
 ### A. Core Items
 Enumerate the core items in your ethics policy and give details of each policy item and its meaning.
@@ -123,7 +78,7 @@ Consider the following ideas from AI NOW report 2018:
 5. Developing new policy interventions and strategic litigation
 6. Building coalitions between researchers, civil society, and organizers within the technology sector
 
-## Item 4 : Experimentation & Priorities
+## Item 4 : [Experimentation & Priorities](https://github.com/LordArugula/CS230-Entrepreneurism-Ethics-Project/wiki/Experimentation-&-Priorities)
 
 ### A. Experimentation (to test OKRs of Strategy)
 Restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas. EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional... think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
@@ -147,9 +102,6 @@ This in-person presentation will be recorded for attendance. It is critical you 
 
 ## Deliverables
 EACH member of the group MUST turn in separately --even though it is the same content.
-
-### Initial Schedule Report : Due Sept. 24, 11pm
-Turn ii screenshot of Kanban/Trello board showing detailed Schedule (see above week 5 item) to BB -> Discussion Board -> ENTREPRENEUR & ETHICS SCHEDULE
 
 ### Weekly Progress Reports: - due 11pm[Oct 15, 22, 29, Nov. 5, 12]
 Make a posting to BB -> Discussion Board -> Group Progress Report Week X
